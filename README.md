@@ -1,2 +1,1 @@
-# apk-download-widget
-This responsive widget allows your users to access and download APKs easily from different sources (Google Play and Uptodown)
+# This repository has migrated to [gitlab](https://gitlab.com/uptodown/apk-download-widget).
